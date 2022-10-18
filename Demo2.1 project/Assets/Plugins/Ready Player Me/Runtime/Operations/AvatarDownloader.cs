@@ -32,7 +32,8 @@ namespace ReadyPlayerMe
                 throw new Exception("Directory access is available only in the editor.");
             #endif
         }
-        
+
+        [Obsolete]
         public IEnumerator DownloadIntoMemory(string url)
         {
             if (HasInternetConnection)
@@ -66,6 +67,7 @@ namespace ReadyPlayerMe
             }
         }
 
+        [Obsolete]
         public IEnumerator DownloadIntoFile(string url, string path)
         {
             CheckFileDirectory();

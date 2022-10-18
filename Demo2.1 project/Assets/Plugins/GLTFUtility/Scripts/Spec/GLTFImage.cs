@@ -33,7 +33,8 @@ namespace Siccity.GLTFUtility {
 				this.path = path;
 			}
 
-			public IEnumerator CreateTextureAsync(bool linear, Action<Texture2D> onFinish, Action<float> onProgress = null) {
+            [Obsolete]
+            public IEnumerator CreateTextureAsync(bool linear, Action<Texture2D> onFinish, Action<float> onProgress = null) {
 				if (!string.IsNullOrEmpty(path)) {
 #if UNITY_EDITOR
 					// Load textures from asset database if we can

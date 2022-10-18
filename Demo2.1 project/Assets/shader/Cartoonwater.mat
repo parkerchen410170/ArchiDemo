@@ -90,10 +90,10 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_a5b1855169724abca33e4a1bc49a9fcb: {r: 0.015686275, g: 0.047058824, b: 0.17254902, a: 0}
-    - Color_c93f09c864ca4989a9d756935b418ab3: {r: 0.05852615, g: 0.10981411, b: 0.2264151, a: 0}
+    - Color_c93f09c864ca4989a9d756935b418ab3: {r: 0.098042004, g: 0.17227961, b: 0.3207547, a: 0}
     - Vector2_a88ddae96d934726a21e1f996421f33c: {r: 7, g: 5, b: 0, a: 0}
     - Vector2_afa75211e1434f92918b18c0e87b4ba1: {r: 2, g: 2, b: 0, a: 0}
-    - Vector2_e4c17ad981cb4b208b7a7adf659df5ef: {r: 1, g: 0.01, b: 0, a: 0}
+    - Vector2_e4c17ad981cb4b208b7a7adf659df5ef: {r: 1, g: 1, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []

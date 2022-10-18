@@ -73,6 +73,7 @@ namespace ReadyPlayerMe
             }
         }
 
+        [Obsolete]
         private IEnumerator GetUrlFromShortCode(string shortCode)
         {
             using (var request = UnityWebRequest.Get($"{SHORT_CODE_BASE_URL}/{shortCode}"))
