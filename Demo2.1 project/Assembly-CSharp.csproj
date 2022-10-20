@@ -57,9 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\avatar\Project\AvatarController.cs" />
+    <Compile Include="Assets\C\SwitchScene.cs" />
     <Compile Include="Assets\C\DoorToNextLevel.cs" />
     <Compile Include="Assets\C\SceneControl.cs" />
-    <Compile Include="Assets\C\SwitchScene.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />

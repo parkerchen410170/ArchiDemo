@@ -19,7 +19,7 @@ public class SwitchScene : MonoBehaviour
     }
 
     // Update is called once per frame
-    float timeLeft = 15.0f;
+    float timeLeft = 25.0f;
 
     void Update()
     {
