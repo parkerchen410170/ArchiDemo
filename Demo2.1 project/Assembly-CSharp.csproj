@@ -36,13 +36,14 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Portals\PortalTeleporter.cs" />
+     <Compile Include="Assets\Portals\PortalTextureSetup.cs" />
      <Compile Include="Assets\avatar\Project\AvatarController.cs" />
      <Compile Include="Assets\C\SwitchScene.cs" />
      <Compile Include="Assets\C\DoorToNextLevel.cs" />
      <Compile Include="Assets\C\SceneControl.cs" />
      <Compile Include="Assets\Portals\PortalCamera.cs" />
-     <Compile Include="Assets\Portals\PortalTextureSetup.cs" />
-     <Compile Include="Assets\Portals\PortalTeleporter.cs" />
+     <Compile Include="Assets\Portals\Move.cs" />
      <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
      <None Include="Assets\Fantasy Skybox FREE\ReleaseNotes.txt" />
      <None Include="Assets\Portals\ScreenCutoutShader.shader" />
