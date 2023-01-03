@@ -1,9 +1,7 @@
 # unity ignore dir
-/Demo2.1 project/[Bb]in/
-/Demo2.1 project/[Ll]ibrary/
-/Demo2.1 project/[Ll]ogs/
-/Demo2.1 project/[Tt]emp/
-/Demo2.1 project/[Oo]bj/
+Demo2.1 project/Library/
+Demo2.1 project/Logs/
+Demo2.1 project/obj/
  
 # unity ignore file
 *.csproj
